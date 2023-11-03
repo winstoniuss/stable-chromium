@@ -2,10 +2,11 @@ const axios = require('axios');
 const extract = require('extract-zip');
 const fs = require('fs');
 const path = require('path');
+const config = require('./config.json');
 
-const CHROMIUM_URL = 'https://www.googleapis.com/download/storage/v1/b/chromium-browser-snapshots/o/Win_x64%2F1216616%2Fchrome-win.zip?generation=1698539918045501&alt=media';
-const DOWNLOAD_PATH = path.join(__dirname, 'chrome-win.zip');
-const EXTRACT_PATH = __dirname;
+const CHROMIUM_URL = config.CHROMIUM_URL;
+const DOWNLOAD_PATH = path.resolve(config.DOWNLOAD_PATH);
+const EXTRACT_PATH = path.resolve(config.EXTRACT_PATH);
 
 async function downloadChromium() {
     console.log('Starting Chromium download...');
