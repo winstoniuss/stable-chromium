@@ -19,8 +19,10 @@ The current stable version provided by this package is:
 
 - **Stable Chromium Version**: `120.0.6099.5`
 - **Base Revision**: `1217362` (Released on November 1, 2023)
+- **Release channel**: `Beta`
 
-> ⚠️ Note: The subsequent version `121.0.6103.3` has known issues with launching on Windows Server 2016.
+> ⚠️ Note: The current version is recorded by the author of the library in his own opinion. 
+The browser is updated to more recent versions after manual testing of the build on all current versions of Windows.
 
 ## 💻 Install
 
