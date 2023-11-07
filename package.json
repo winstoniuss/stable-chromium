@@ -24,7 +24,6 @@
   "bugs": {
     "url": "https://github.com/winstoniuss/stable-chromium/issues"
   },
-  "homepage": "https://github.com/winstoniuss/stable-chromium",
   "dependencies": {
     "axios": "^1.6.0",
     "extract-zip": "^2.0.1"
