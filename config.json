@@ -1,5 +1,5 @@
 {
-    "CHROMIUM_URL": "https://www.googleapis.com/download/storage/v1/b/chromium-browser-snapshots/o/Win_x64%2F1217378%2Fchrome-win.zip?generation=1698723484647968&alt=media",
+    "CHROMIUM_URL": "https://www.googleapis.com/download/storage/v1/b/chromium-browser-snapshots/o/Win_x64%2F1290591%2Fchrome-win.zip?generation=1713786845068310&alt=media",
     "DOWNLOAD_PATH": "./chrome-win.zip",
     "EXTRACT_PATH": "./"
 }
