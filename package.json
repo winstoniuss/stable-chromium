@@ -1,6 +1,6 @@
 {
   "name": "stable-chromium",
-  "version": "1.0.22",
+  "version": "2.0.2",
   "description": "A library to install stable Chromium for testing via Gauge and Taiko",
   "chromiumVersion": "120.0.6095.0",
   "main": "index.js",
