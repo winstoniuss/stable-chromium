@@ -2,7 +2,7 @@
   "name": "stable-chromium",
   "version": "2.0.2",
   "description": "A library to install stable Chromium for testing via Gauge and Taiko",
-  "chromiumVersion": "120.0.6095.0",
+  "chromiumVersion": "128.0.6551.0",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",

@@ -17,8 +17,8 @@ The library is particularly optimized for integration with automated testing fra
 
 The current stable version provided by this package is:
 
-- **Stable Chromium Version**: `120.0.6099.5`
-- **Base Revision**: `1217362` (Released on November 1, 2023)
+- **Stable Chromium Version**: `128.0.6551.0`
+- **Base Revision**: `1317997` (Friday, June 21, 2024)
 - **Release channel**: `Beta`
 
 > ⚠️ Note: The current version is recorded by the author of the library in his own opinion. 
